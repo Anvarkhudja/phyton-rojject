@@ -5,4 +5,3 @@ for i in a:
         max_num = i
 print("Eng katta son: ", max_num)
 # Hello
-# Abl erini ami
